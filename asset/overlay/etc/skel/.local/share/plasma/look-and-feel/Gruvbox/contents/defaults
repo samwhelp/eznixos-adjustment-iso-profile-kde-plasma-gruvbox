@@ -2,13 +2,13 @@
 widgetStyle=breeze
 
 [kdeglobals][General]
-ColorScheme=GruvboxColors
+ColorScheme=Gruvbox
 
 [kdeglobals][Icons]
 Theme=Gruvbox
 
 [plasmarc][Theme]
-name=GruvboxPlasma
+name=Gruvbox
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
@@ -21,8 +21,8 @@ LayoutName=
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__GruvboxAurorae
+theme=__aurorae__svg__Gruvbox
 
 [KSplash]
 Engine=KSplashQML
-Theme=GruvboxPlasma
+Theme=Gruvbox
