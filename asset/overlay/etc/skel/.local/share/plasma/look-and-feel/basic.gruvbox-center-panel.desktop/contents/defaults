@@ -17,7 +17,7 @@ Image=Next
 cursorTheme=breeze_cursors
 
 [kwinrc][WindowSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=MediumRounded
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
