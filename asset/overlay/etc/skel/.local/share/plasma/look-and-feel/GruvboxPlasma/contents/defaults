@@ -11,7 +11,7 @@ Theme=Gruvbox
 name=GruvboxPlasma
 
 [kcminputrc][Mouse]
-cursorTheme=PearDarkCursors
+cursorTheme=breeze_cursors
 
 [kwinrc][WindowSwitcher]
 LayoutName=MediumRounded
@@ -22,3 +22,7 @@ LayoutName=
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__GruvboxAurorae
+
+[KSplash]
+Engine=KSplashQML
+Theme=GruvboxPlasma
