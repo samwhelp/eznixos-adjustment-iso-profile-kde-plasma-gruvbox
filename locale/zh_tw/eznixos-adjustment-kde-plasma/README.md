@@ -10,14 +10,6 @@
 | [Config File Path](helper/doc/config.md) |
 
 
-## Notice
-
-
-### kde locale
-
-> kde locale config file: [~/.config/plasma-localerc](asset/overlay/etc/skel/.config/plasma-localerc)
-
-
 ## Howto
 
 ### prepare
