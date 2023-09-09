@@ -1,8 +1,8 @@
 {
     "KPlugin": {
-        "Id": "as.gruvbox.neon-knights.center-panel.desktop",
-        "Name": "As-Gruvbox-NeonKnights",
-        "Description": "Gruvbox / NeonKnights-Icon / CenterPanel / KDE Desktop",
+        "Id": "as.gruvbox-blue.neon-knights.center-panel.desktop",
+        "Name": "As-GruvboxBlue-NeonKnights",
+        "Description": "GruvboxBlue / NeonKnights-Icon / CenterPanel / KDE Desktop",
         "Website": "https://github.com/samwhelp/eznixos-adjustment-iso-profile-kde-plasma-gruvbox/",
         "Version": "2.0",
         "License": "MIT",
