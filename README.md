@@ -1,9 +1,9 @@
 
 
-# eznixos-adjustment-iso-profile-kde-plasma-gruvbox
+# Home
 
 
-## iso-profile
+## eznixos-adjustment-iso-profile-kde-plasma-gruvbox
 
 | en_us | zh_tw |
 | --- | --- |
